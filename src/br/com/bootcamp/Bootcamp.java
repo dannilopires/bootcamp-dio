@@ -10,8 +10,17 @@ public class Bootcamp {
     private final LocalDate dataInicio = LocalDate.now();
     private final LocalDate dataFim = dataInicio.plusDays(45);
     private String nome;
+    private String descricao;
     private Set<Dev> devsInscritos = new HashSet<>();
     private Set<Conteudo> conteudos = new LinkedHashSet<>();
+
+    public String getDescricao() {
+        return descricao;
+    }
+
+    public void setDescricao(String descricao) {
+        this.descricao = descricao;
+    }
 
     public LocalDate getDataInicio() {
         return dataInicio;
@@ -56,5 +65,17 @@ public class Bootcamp {
     @Override
     public int hashCode() {
         return Objects.hash(dataInicio, dataFim, nome, devsInscritos, conteudos);
+    }
+
+    @Override
+    public String toString() {
+        return "Bootcamp{" +
+                "dataInicio=" + dataInicio +
+                ", dataFim=" + dataFim +
+                ", nome='" + nome + '\'' +
+                ", descricao='" + descricao + '\'' +
+                ", devsInscritos=" + devsInscritos +
+                ", conteudos=" + conteudos +
+                '}';
     }
 }
