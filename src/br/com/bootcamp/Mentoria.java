@@ -3,10 +3,18 @@ package br.com.bootcamp;
 import java.time.LocalDate;
 
 public class Mentoria extends Conteudo {
-    LocalDate data;
+    private LocalDate data;
 
     @Override
     public double calcularXP() {
-        return 0;
+        return XP_PADRAO + 20d;
+    }
+
+    public LocalDate getData() {
+        return data;
+    }
+
+    public void setData(LocalDate data) {
+        this.data = data;
     }
 }

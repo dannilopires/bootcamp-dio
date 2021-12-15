@@ -2,19 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7246599-7dad-4d7c-a7bd-e69a92ef4685" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootcamp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/bootcamp/Bootcamp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/bootcamp/Conteudo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/bootcamp/Curso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/bootcamp/Dev.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/bootcamp/Mentoria.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Cidades-API/src/main/java/com/dannilo/Cidades/API/cities/entities/City.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Cidades-API/src/main/java/com/dannilo/Cidades/API/cities/entities/PointType.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Cidades-API/src/main/java/com/dannilo/Cidades/API/cities/repositories/CityRepository.java" afterDir="false" />
@@ -98,6 +85,11 @@
       <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/Exercicio.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/Pessoa.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../workspace.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/bootcamp/Bootcamp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/bootcamp/Bootcamp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/bootcamp/Conteudo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/bootcamp/Conteudo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/bootcamp/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/bootcamp/Curso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/bootcamp/Mentoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/bootcamp/Mentoria.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
